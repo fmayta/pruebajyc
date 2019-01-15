@@ -2,3 +2,11 @@ esto es una prueba
 HOLA 123
 desde aqui empieza el branch
 aumentando lineas
+
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>prueba</ion-title>
+  </ion-navbar>
+
+</ion-header>

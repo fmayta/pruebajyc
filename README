@@ -22,3 +22,21 @@
               
 
 </ion-content>
+
+Paso a Paso
+
+Crear el proyecto con el siguiente comando
+
+ionic start JyCApp tabs --type=angular
+
+MyApp = Es el nombre de la aplicacion
+tabs= Es la plantilla
+
+tabsNo es la única plantilla de proyecto disponible. Entre todos los tipos de proyectos, hay tres plantillas disponibles:
+
+tabs: Un diseño basado en pestañas
+sidemenu: Un diseño basado en sidemenu
+blank: Un proyecto vacío con una sola página.
+Ver todas las plantillas disponibles con el siguiente comando:
+
+ ionic start --list

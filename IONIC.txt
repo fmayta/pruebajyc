@@ -1,0 +1,216 @@
+CANAL https://www.youtube.com/user/saimon1924/featured
+
+1.- Rastreo en tiempo real. 
+https://devdactic.com/ionic-location-tracker-map-track/
+
+2.-  IONIC MENU ACORDEON - OCULTAR MOSTRAR
+Video : https://www.youtube.com/watch?v=w5PR_d6eiQI
+Fuente: https://ionicacademy.com/accordion-list-ionic-v4/
+
+3.- IONIC OFFLINE
+video : https://www.youtube.com/watch?v=CFoG0xkgVlE
+Fuente: https://devdactic.com/ionic-4-offline-mode/
+
+4.-  Abrir PDF en IONIC
+Video: https://www.youtube.com/watch?v=k2iaGNApM9w
+Fuente: https://ionicacademy.com/open-pdf-ionic-4/
+
+5.- MENU LATERAL IONIC
+Video: https://www.youtube.com/watch?v=Yx_xJ4m-JxE
+Fuente:https://ionicacademy.com/side-menu-ionic-4/
+
+6.-  4 diapositivas con carrito de compras
+Video: https://www.youtube.com/watch?v=6sXz2swm6Sw
+Fuente:https://devdactic.com/dynamic-ionic-4-slides
+
+7.- MOSTRAR MENU EN FUNION A ROLES O PERMISOS
+Video: https://www.youtube.com/watch?v=44Avd9NBf7M
+Fuente:https://ionicacademy.com/ionic-role-based-directive/
+
+8.- SUBIR ARCHIVOS DE IMAGENES A IONIC
+Video: https://www.youtube.com/watch?v=4XiBXFDXesg
+Fuente: https://devdactic.com/ionic-4-image-upload-storage/
+
+
+9.-  APP Ionic4 Firebase y AngularFire
+Video: https://www.youtube.com/watch?v=H20l9ofyR54
+Fuente: https://devdactic.com/ionic-4-firebase-angularfire/
+
+10.- Creación de un flujo de inicio de sesión de Ionic 4 básico con enrutador angular
+Video: https://www.youtube.com/watch?v=z3pDqnuyzZ4
+Fuente: https://devdactic.com/ionic-4-login-angular/
+
+11.- AGREGAR MARCA DE AGUA A IMAGENES
+Video: https://www.youtube.com/watch?v=RsKnIWh-GR0
+Fuente: https://ionicacademy.com/ionic-image-watermark/
+
+12.-  AUTORIZACION DE ENCABEZADOS IONIC
+Video:
+Fuente:https://ionicacademy.com/ionic-http-interceptor/
+
+13.- SELECCION DE COMPONENTE EN BUSQUEDA 
+Video: https://www.youtube.com/watch?v=pHuhokaLc-c
+Fuente: https://ionicacademy.com/ionic-searchable-select-component/
+
+14.- TABLAS EN IONIC CON ngx-datatable
+Video: https://www.youtube.com/watch?v=Ji52_xdxkDg
+Fuente: https://devdactic.com/ionic-datatable-ngx-datatable/
+ 
+15.- 10 TIPS DE IONIC
+Video:  https://www.youtube.com/watch?v=kqCMbTvloTE
+Fuente: https://devdactic.com/10-simple-ionic-hacks/
+
+
+16.- MENU LATERAL MULTISELECCION
+Video: https://www.youtube.com/watch?v=IzUip9UEqV0
+Fuente:https://ionicacademy.com/ionic-side-menu-tab-bars/
+
+17.- GEOLOCALIZACION POR IONIC
+Video: https://www.youtube.com/watch?v=Ru57AkoWMJ4
+Fuente: https://devdactic.com/ionic-location-tracker-map-track/
+
+
+18.- PANTALLA DE BLOQUE PARA APP IONIC
+Video: https://www.youtube.com/watch?v=S5IRZUn7S60
+Fuente: https://ionicacademy.com/ionic-lock-screen-authentication/
+
+19.-  DIBUJO EN PANTALLA - LIENZO IONIC
+Video: https://www.youtube.com/watch?v=igJFPu6RrJ0
+Fuente:https://devdactic.com/ionic-canvas-drawing-files/
+
+20.- Carga de componentes dinámicos con Ionic & Angular ComponentFactoryResolver
+Video: https://www.youtube.com/watch?v=XY__2PX_BZQ 
+Fuente:https://devdactic.com/dynamic-components-ionic/
+
+21.- CREAR CALENDARIO EDITABLE EN IONIC
+Video: https://www.youtube.com/watch?v=RGLn8tpJUgc
+Fuente: https://devdactic.com/ionic-calendar-angular-calendar/
+
+
+22.-  CONSTRUIR GALERIA DE IMAGENES
+Video: https://www.youtube.com/watch?v=BGoL0uWRTrY
+Fuente: https://ionicacademy.com/building-ionic-image-gallery/
+
+23.-  Cómo visualizar datos de Firebase con Chart.js y Ionic
+Video: https://www.youtube.com/watch?v=AoIWp-yyQu4
+Fuente: https://devdactic.com/visualise-firebase-chart-js/
+
+24.- SCROLL DE LISTA INFINITO
+Video: https://www.youtube.com/watch?v=FnTKqDT0e5A
+Fuente: https://devdactic.com/ionic-scroll-performance/
+
+25.- Pestañas deslizables Navegación COMO BNB
+Video: https://www.youtube.com/watch?v=xtw_fMk1ZNU
+Fuente: https://ionicacademy.com/swipeable-tabs-ionic/
+
+26.- ALMACENAR ARCHIVOS DESDE IONICA A FIREBASE
+Video: https://www.youtube.com/watch?v=Pi6AtssyaNw
+Fuente: https://devdactic.com/store-files-firebase-storage-ionic/
+
+27.-  LEER Y ESCRIBIR EN CALENDARIO IONIC
+Video: https://www.youtube.com/watch?v=m8jA74YAOq4
+Fuente: https://ionicacademy.com/read-write-calendar-ionic/
+
+28.- CAPTURAR AUDIO Y VIDEO EN IONIC
+Video: https://www.youtube.com/watch?v=dC_gqHkwPqk
+Fuente: https://ionicacademy.com/capture-audio-video-local/
+
+29.-  CREAR PDF USANDO PDFMAKE
+Video: https://www.youtube.com/watch?v=mlGehHg4oSA
+Fuente: https://ionicacademy.com/create-pdf-files-ionic-pdfmake/
+
+30.-  CARGAR Y ADMINISTRADOR IMAGENES CON NODE.JS
+Video: https://www.youtube.com/watch?v=JtSTW2g1sZU
+Fuente: https://devdactic.com/ionic-image-upload-app/
+
+31.- MODIFICAR TAMAÑO DE IMAGENEZ IONIC
+Video: https://www.youtube.com/watch?v=RwdTZGBm5v4
+Fuente: https://ionicacademy.com/create-thumbnail-image-ionic/
+
+32.- INICIO DE SESION CON HUELLA FINGERPRINT
+Video: https://www.youtube.com/watch?v=D1nWPBx_7Gg
+Fuente: https://ionicacademy.com/ionic-fingerprint-login/
+
+33.- CHAT REAL CON Socket.io
+Video: https://www.youtube.com/watch?v=MGjRiinm67o
+Fuente:  https://devdactic.com/ionic-realtime-socket-io/
+
+34.- CONSTRUIR IONIC PARA DIFERENTES TAMAÑOS DE PANTALLAS
+Video: https://www.youtube.com/watch?v=O0ZQbgGUeY0
+Fuente: https://ionicacademy.com/ionic-different-device-sizes/
+
+
+35.-  LECTOR QR Y GENERADOR
+Video: https://www.youtube.com/watch?v=2N6MZVULgDM
+Fuente: https://ionicacademy.com/ionic-qr-code-generator-reader/
+
+36.-  MENU LATERAL y BARRA DE PESTAÑA
+Video: https://www.youtube.com/watch?v=PDTV2YKJ0r0
+Fuente: https://devdactic.com/ionic-side-menu-tabs/
+
+
+37.-  CONSULTAS SQLITE IONIC
+Video: https://www.youtube.com/watch?v=E6h8PFHMLIU
+Fuente: https://devdactic.com/ionic-sqlite-queries-database/
+
+38.- HABILITAR CACHE IONIC
+Video: https://www.youtube.com/watch?v=zIE8aSw40eY
+Fuente: https://ionicacademy.com/ionic-caching-service/
+
+39.- IONIC CALENDARIO PROPIO
+Video: https://www.youtube.com/watch?v=GOPEV3sE36o
+Fuente: https://devdactic.com/ionic-calendar-app/
+
+40.- ENVIO DE CORREO ELECTRONICO CON ADJUNTO DE IMAGEN DESDE IONIC
+Video: https://www.youtube.com/watch?v=N27NBB9TgLI
+Fuente: https://ionicacademy.com/emails-image-attachments-ionic/
+
+41.- NOTIFICACIONES LOCAL EN IONIC
+Video: https://www.youtube.com/watch?v=fJfRgswp3w8
+Fuente: https://ionicacademy.com/ionic-local-notifications/
+
+42 .- NOTIFICACIONES PUSH ANDROID
+Video: https://www.youtube.com/watch?v=Z1owDaNQEtk
+Fuente: http://devdactic.com/android-push-notifications/
+
+
+.- 
+Video:
+Fuente:
+.- 
+Video:
+Fuente:
+.- 
+Video:
+Fuente:
+.- 
+Video:
+Fuente:
+.- 
+Video:
+Fuente:
+.- 
+Video:
+Fuente:
+-----------------------------
+
+Curso ionic 2 
+https://www.youtube.com/watch?v=IZVhMPSfqAQ&list=PLPl81lqbj-4IzylAHYigeNB_Pob2WGGEG
+
+----
+
+
+http://www.youtube.com/watch?v=CaQhZrGg7Es
+http://www.youtube.com/watch?v=X0wv327cqxU
+http://www.youtube.com/watch?v=ZqQqR2op7JY
+http://www.youtube.com/watch?v=WMtPyLmKUu4
+http://www.youtube.com/watch?v=Vd8cN4QjgYg
+http://www.youtube.com/watch?v=Js3mOPDpdoA
+http://www.youtube.com/watch?v=WMtPyLmKUu4
+
+
+*************
+
+Cómo construí un prototipo MEAN en 24 horas
+https://www.youtube.com/watch?v=DsooGbvWefY
+https://devdactic.com/mean-prototype/
